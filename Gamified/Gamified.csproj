@@ -43,7 +43,15 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
     <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
     <Reference Include="System.Web.DynamicData" />
     <Reference Include="System.Web.Entity" />
     <Reference Include="System.Web.ApplicationServices" />
@@ -67,12 +75,144 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="App_Data\GamifiedDatabase.mdf" />
+    <Content Include="App_Data\GamifiedDatabase_log.ldf">
+      <DependentUpon>GamifiedDatabase.mdf</DependentUpon>
+    </Content>
+    <Content Include="Models\GamifiedModel.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>GamifiedModel.Context.cs</LastGenOutput>
+      <DependentUpon>GamifiedModel.edmx</DependentUpon>
+    </Content>
+    <Content Include="Models\GamifiedModel.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>GamifiedModel.edmx</DependentUpon>
+      <LastGenOutput>GamifiedModel.cs</LastGenOutput>
+    </Content>
+    <Content Include="Views\Auction.aspx" />
+    <Content Include="Views\Cart.aspx" />
+    <Content Include="Views\Chat.aspx" />
+    <Content Include="Views\Home.aspx" />
+    <Content Include="Views\Login.aspx" />
+    <Content Include="Views\MiniGame.aspx" />
+    <Content Include="Views\Product.aspx" />
+    <Content Include="Views\ProductDetail.aspx" />
+    <Content Include="Views\Register.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Controllers\AuctionController.cs" />
+    <Compile Include="Controllers\GiftController.cs" />
+    <Compile Include="Controllers\MiniGameController.cs" />
+    <Compile Include="Controllers\OrderController.cs" />
+    <Compile Include="Controllers\ProductController.cs" />
+    <Compile Include="Controllers\UserController.cs" />
+    <Compile Include="Factories\AuctionFactory.cs" />
+    <Compile Include="Factories\GiftFactory.cs" />
+    <Compile Include="Factories\MiniGameFactory.cs" />
+    <Compile Include="Factories\OrderFactory.cs" />
+    <Compile Include="Factories\ProductFactory.cs" />
+    <Compile Include="Factories\UserFactory.cs" />
+    <Compile Include="Handlers\AuctionHandler.cs" />
+    <Compile Include="Handlers\GiftHandler.cs" />
+    <Compile Include="Handlers\MiniGameHandler.cs" />
+    <Compile Include="Handlers\OrderHandler.cs" />
+    <Compile Include="Handlers\ProductHandler.cs" />
+    <Compile Include="Handlers\UserHandler.cs" />
+    <Compile Include="Models\GamifiedModel.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GamifiedModel.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\GamifiedModel.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GamifiedModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Models\GamifiedModel.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>GamifiedModel.edmx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repositories\AuctionRepository.cs" />
+    <Compile Include="Repositories\GiftRepository.cs" />
+    <Compile Include="Repositories\MiniGameRepository.cs" />
+    <Compile Include="Repositories\OrderRepository.cs" />
+    <Compile Include="Repositories\ProductRepository.cs" />
+    <Compile Include="Repositories\UserRepository.cs" />
+    <Compile Include="Views\Auction.aspx.cs">
+      <DependentUpon>Auction.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\Auction.aspx.designer.cs">
+      <DependentUpon>Auction.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Cart.aspx.cs">
+      <DependentUpon>Cart.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\Cart.aspx.designer.cs">
+      <DependentUpon>Cart.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Chat.aspx.cs">
+      <DependentUpon>Chat.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\Chat.aspx.designer.cs">
+      <DependentUpon>Chat.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Home.aspx.cs">
+      <DependentUpon>Home.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\Home.aspx.designer.cs">
+      <DependentUpon>Home.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\MiniGame.aspx.cs">
+      <DependentUpon>MiniGame.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\MiniGame.aspx.designer.cs">
+      <DependentUpon>MiniGame.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Product.aspx.cs">
+      <DependentUpon>Product.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\Product.aspx.designer.cs">
+      <DependentUpon>Product.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\ProductDetail.aspx.cs">
+      <DependentUpon>ProductDetail.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\ProductDetail.aspx.designer.cs">
+      <DependentUpon>ProductDetail.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Views\Register.aspx.cs">
+      <DependentUpon>Register.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Views\Register.aspx.designer.cs">
+      <DependentUpon>Register.aspx</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
+    <EntityDeploy Include="Models\GamifiedModel.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>GamifiedModel.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <Content Include="Models\GamifiedModel.edmx.diagram">
+      <DependentUpon>GamifiedModel.edmx</DependentUpon>
+    </Content>
     <None Include="packages.config" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -81,6 +221,10 @@
       <DependentUpon>Web.config</DependentUpon>
     </None>
   </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup />
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
     <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>

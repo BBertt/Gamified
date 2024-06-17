@@ -1,12 +1,597 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\thorn\\Documents\\GitHub\\Gamified\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\user\\Documents\\GitHub\\Gamified\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6655A447-5D84-46C0-8920-D270CD621662}|Gamified\\Gamified.csproj|c:\\users\\user\\documents\\github\\gamified\\gamified\\views\\minigame.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6655A447-5D84-46C0-8920-D270CD621662}|Gamified\\Gamified.csproj|solutionrelative:gamified\\views\\minigame.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6655A447-5D84-46C0-8920-D270CD621662}|Gamified\\Gamified.csproj|c:\\users\\user\\documents\\github\\gamified\\gamified\\factories\\auctionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6655A447-5D84-46C0-8920-D270CD621662}|Gamified\\Gamified.csproj|solutionrelative:gamified\\factories\\auctionfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6655A447-5D84-46C0-8920-D270CD621662}|Gamified\\Gamified.csproj|c:\\users\\user\\documents\\github\\gamified\\gamified\\views\\chat.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6655A447-5D84-46C0-8920-D270CD621662}|Gamified\\Gamified.csproj|solutionrelative:gamified\\views\\chat.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6655A447-5D84-46C0-8920-D270CD621662}|Gamified\\Gamified.csproj|c:\\users\\user\\documents\\github\\gamified\\gamified\\views\\cart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6655A447-5D84-46C0-8920-D270CD621662}|Gamified\\Gamified.csproj|solutionrelative:gamified\\views\\cart.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6655A447-5D84-46C0-8920-D270CD621662}|Gamified\\Gamified.csproj|c:\\users\\user\\documents\\github\\gamified\\gamified\\views\\auction.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6655A447-5D84-46C0-8920-D270CD621662}|Gamified\\Gamified.csproj|solutionrelative:gamified\\views\\auction.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6655A447-5D84-46C0-8920-D270CD621662}|Gamified\\Gamified.csproj|c:\\users\\user\\documents\\github\\gamified\\gamified\\views\\productdetail.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6655A447-5D84-46C0-8920-D270CD621662}|Gamified\\Gamified.csproj|solutionrelative:gamified\\views\\productdetail.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6655A447-5D84-46C0-8920-D270CD621662}|Gamified\\Gamified.csproj|c:\\users\\user\\documents\\github\\gamified\\gamified\\views\\product.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6655A447-5D84-46C0-8920-D270CD621662}|Gamified\\Gamified.csproj|solutionrelative:gamified\\views\\product.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6655A447-5D84-46C0-8920-D270CD621662}|Gamified\\Gamified.csproj|c:\\users\\user\\documents\\github\\gamified\\gamified\\views\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6655A447-5D84-46C0-8920-D270CD621662}|Gamified\\Gamified.csproj|solutionrelative:gamified\\views\\home.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6655A447-5D84-46C0-8920-D270CD621662}|Gamified\\Gamified.csproj|c:\\users\\user\\documents\\github\\gamified\\gamified\\views\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6655A447-5D84-46C0-8920-D270CD621662}|Gamified\\Gamified.csproj|solutionrelative:gamified\\views\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6655A447-5D84-46C0-8920-D270CD621662}|Gamified\\Gamified.csproj|c:\\users\\user\\documents\\github\\gamified\\gamified\\views\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{6655A447-5D84-46C0-8920-D270CD621662}|Gamified\\Gamified.csproj|solutionrelative:gamified\\views\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6655A447-5D84-46C0-8920-D270CD621662}|Gamified\\Gamified.csproj|c:\\users\\user\\documents\\github\\gamified\\gamified\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6655A447-5D84-46C0-8920-D270CD621662}|Gamified\\Gamified.csproj|solutionrelative:gamified\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6655A447-5D84-46C0-8920-D270CD621662}|Gamified\\Gamified.csproj|c:\\users\\user\\documents\\github\\gamified\\gamified\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6655A447-5D84-46C0-8920-D270CD621662}|Gamified\\Gamified.csproj|solutionrelative:gamified\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6655A447-5D84-46C0-8920-D270CD621662}|Gamified\\Gamified.csproj|c:\\users\\user\\documents\\github\\gamified\\gamified\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6655A447-5D84-46C0-8920-D270CD621662}|Gamified\\Gamified.csproj|solutionrelative:gamified\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6655A447-5D84-46C0-8920-D270CD621662}|Gamified\\Gamified.csproj|c:\\users\\user\\documents\\github\\gamified\\gamified\\repositories\\minigamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6655A447-5D84-46C0-8920-D270CD621662}|Gamified\\Gamified.csproj|solutionrelative:gamified\\repositories\\minigamerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6655A447-5D84-46C0-8920-D270CD621662}|Gamified\\Gamified.csproj|c:\\users\\user\\documents\\github\\gamified\\gamified\\repositories\\giftrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6655A447-5D84-46C0-8920-D270CD621662}|Gamified\\Gamified.csproj|solutionrelative:gamified\\repositories\\giftrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6655A447-5D84-46C0-8920-D270CD621662}|Gamified\\Gamified.csproj|c:\\users\\user\\documents\\github\\gamified\\gamified\\repositories\\auctionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6655A447-5D84-46C0-8920-D270CD621662}|Gamified\\Gamified.csproj|solutionrelative:gamified\\repositories\\auctionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6655A447-5D84-46C0-8920-D270CD621662}|Gamified\\Gamified.csproj|c:\\users\\user\\documents\\github\\gamified\\gamified\\handlers\\userhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6655A447-5D84-46C0-8920-D270CD621662}|Gamified\\Gamified.csproj|solutionrelative:gamified\\handlers\\userhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6655A447-5D84-46C0-8920-D270CD621662}|Gamified\\Gamified.csproj|c:\\users\\user\\documents\\github\\gamified\\gamified\\handlers\\producthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6655A447-5D84-46C0-8920-D270CD621662}|Gamified\\Gamified.csproj|solutionrelative:gamified\\handlers\\producthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6655A447-5D84-46C0-8920-D270CD621662}|Gamified\\Gamified.csproj|c:\\users\\user\\documents\\github\\gamified\\gamified\\handlers\\orderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6655A447-5D84-46C0-8920-D270CD621662}|Gamified\\Gamified.csproj|solutionrelative:gamified\\handlers\\orderhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6655A447-5D84-46C0-8920-D270CD621662}|Gamified\\Gamified.csproj|c:\\users\\user\\documents\\github\\gamified\\gamified\\handlers\\minigamehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6655A447-5D84-46C0-8920-D270CD621662}|Gamified\\Gamified.csproj|solutionrelative:gamified\\handlers\\minigamehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6655A447-5D84-46C0-8920-D270CD621662}|Gamified\\Gamified.csproj|c:\\users\\user\\documents\\github\\gamified\\gamified\\handlers\\gifthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6655A447-5D84-46C0-8920-D270CD621662}|Gamified\\Gamified.csproj|solutionrelative:gamified\\handlers\\gifthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6655A447-5D84-46C0-8920-D270CD621662}|Gamified\\Gamified.csproj|c:\\users\\user\\documents\\github\\gamified\\gamified\\handlers\\auctionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6655A447-5D84-46C0-8920-D270CD621662}|Gamified\\Gamified.csproj|solutionrelative:gamified\\handlers\\auctionhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6655A447-5D84-46C0-8920-D270CD621662}|Gamified\\Gamified.csproj|c:\\users\\user\\documents\\github\\gamified\\gamified\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6655A447-5D84-46C0-8920-D270CD621662}|Gamified\\Gamified.csproj|solutionrelative:gamified\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6655A447-5D84-46C0-8920-D270CD621662}|Gamified\\Gamified.csproj|c:\\users\\user\\documents\\github\\gamified\\gamified\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6655A447-5D84-46C0-8920-D270CD621662}|Gamified\\Gamified.csproj|solutionrelative:gamified\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6655A447-5D84-46C0-8920-D270CD621662}|Gamified\\Gamified.csproj|c:\\users\\user\\documents\\github\\gamified\\gamified\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6655A447-5D84-46C0-8920-D270CD621662}|Gamified\\Gamified.csproj|solutionrelative:gamified\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6655A447-5D84-46C0-8920-D270CD621662}|Gamified\\Gamified.csproj|c:\\users\\user\\documents\\github\\gamified\\gamified\\controllers\\minigamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6655A447-5D84-46C0-8920-D270CD621662}|Gamified\\Gamified.csproj|solutionrelative:gamified\\controllers\\minigamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6655A447-5D84-46C0-8920-D270CD621662}|Gamified\\Gamified.csproj|c:\\users\\user\\documents\\github\\gamified\\gamified\\controllers\\giftcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6655A447-5D84-46C0-8920-D270CD621662}|Gamified\\Gamified.csproj|solutionrelative:gamified\\controllers\\giftcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6655A447-5D84-46C0-8920-D270CD621662}|Gamified\\Gamified.csproj|c:\\users\\user\\documents\\github\\gamified\\gamified\\controllers\\auctioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6655A447-5D84-46C0-8920-D270CD621662}|Gamified\\Gamified.csproj|solutionrelative:gamified\\controllers\\auctioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6655A447-5D84-46C0-8920-D270CD621662}|Gamified\\Gamified.csproj|c:\\users\\user\\documents\\github\\gamified\\gamified\\factories\\giftfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6655A447-5D84-46C0-8920-D270CD621662}|Gamified\\Gamified.csproj|solutionrelative:gamified\\factories\\giftfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6655A447-5D84-46C0-8920-D270CD621662}|Gamified\\Gamified.csproj|c:\\users\\user\\documents\\github\\gamified\\gamified\\factories\\orderfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6655A447-5D84-46C0-8920-D270CD621662}|Gamified\\Gamified.csproj|solutionrelative:gamified\\factories\\orderfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6655A447-5D84-46C0-8920-D270CD621662}|Gamified\\Gamified.csproj|c:\\users\\user\\documents\\github\\gamified\\gamified\\factories\\minigamefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6655A447-5D84-46C0-8920-D270CD621662}|Gamified\\Gamified.csproj|solutionrelative:gamified\\factories\\minigamefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6655A447-5D84-46C0-8920-D270CD621662}|Gamified\\Gamified.csproj|c:\\users\\user\\documents\\github\\gamified\\gamified\\factories\\productfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6655A447-5D84-46C0-8920-D270CD621662}|Gamified\\Gamified.csproj|solutionrelative:gamified\\factories\\productfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6655A447-5D84-46C0-8920-D270CD621662}|Gamified\\Gamified.csproj|c:\\users\\user\\documents\\github\\gamified\\gamified\\factories\\userfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6655A447-5D84-46C0-8920-D270CD621662}|Gamified\\Gamified.csproj|solutionrelative:gamified\\factories\\userfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6655A447-5D84-46C0-8920-D270CD621662}|Gamified\\Gamified.csproj|c:\\users\\user\\documents\\github\\gamified\\gamified\\models\\gamifiedmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{6655A447-5D84-46C0-8920-D270CD621662}|Gamified\\Gamified.csproj|solutionrelative:gamified\\models\\gamifiedmodel.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MiniGame.aspx",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Gamified\\Gamified\\Views\\MiniGame.aspx",
+              "RelativeDocumentMoniker": "Gamified\\Views\\MiniGame.aspx",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Gamified\\Gamified\\Views\\MiniGame.aspx",
+              "RelativeToolTip": "Gamified\\Views\\MiniGame.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-17T22:50:34.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Chat.aspx",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Gamified\\Gamified\\Views\\Chat.aspx",
+              "RelativeDocumentMoniker": "Gamified\\Views\\Chat.aspx",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Gamified\\Gamified\\Views\\Chat.aspx",
+              "RelativeToolTip": "Gamified\\Views\\Chat.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-17T22:50:23.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Cart.aspx",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Gamified\\Gamified\\Views\\Cart.aspx",
+              "RelativeDocumentMoniker": "Gamified\\Views\\Cart.aspx",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Gamified\\Gamified\\Views\\Cart.aspx",
+              "RelativeToolTip": "Gamified\\Views\\Cart.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-17T22:50:16.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Auction.aspx",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Gamified\\Gamified\\Views\\Auction.aspx",
+              "RelativeDocumentMoniker": "Gamified\\Views\\Auction.aspx",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Gamified\\Gamified\\Views\\Auction.aspx",
+              "RelativeToolTip": "Gamified\\Views\\Auction.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-17T22:50:06.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductDetail.aspx",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Gamified\\Gamified\\Views\\ProductDetail.aspx",
+              "RelativeDocumentMoniker": "Gamified\\Views\\ProductDetail.aspx",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Gamified\\Gamified\\Views\\ProductDetail.aspx",
+              "RelativeToolTip": "Gamified\\Views\\ProductDetail.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-17T22:49:40.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.aspx",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Gamified\\Gamified\\Views\\Product.aspx",
+              "RelativeDocumentMoniker": "Gamified\\Views\\Product.aspx",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Gamified\\Gamified\\Views\\Product.aspx",
+              "RelativeToolTip": "Gamified\\Views\\Product.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-17T22:49:24.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Home.aspx",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Gamified\\Gamified\\Views\\Home.aspx",
+              "RelativeDocumentMoniker": "Gamified\\Views\\Home.aspx",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Gamified\\Gamified\\Views\\Home.aspx",
+              "RelativeToolTip": "Gamified\\Views\\Home.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-17T22:49:12.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Gamified\\Gamified\\Views\\Login.aspx",
+              "RelativeDocumentMoniker": "Gamified\\Views\\Login.aspx",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Gamified\\Gamified\\Views\\Login.aspx",
+              "RelativeToolTip": "Gamified\\Views\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-17T22:48:48.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuctionFactory.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Gamified\\Gamified\\Factories\\AuctionFactory.cs",
+              "RelativeDocumentMoniker": "Gamified\\Factories\\AuctionFactory.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Gamified\\Gamified\\Factories\\AuctionFactory.cs",
+              "RelativeToolTip": "Gamified\\Factories\\AuctionFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T22:43:36.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Register.aspx",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Gamified\\Gamified\\Views\\Register.aspx",
+              "RelativeDocumentMoniker": "Gamified\\Views\\Register.aspx",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Gamified\\Gamified\\Views\\Register.aspx",
+              "RelativeToolTip": "Gamified\\Views\\Register.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-06-17T22:48:40.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Gamified\\Gamified\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Gamified\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Gamified\\Gamified\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Gamified\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T22:48:10.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Gamified\\Gamified\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Gamified\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Gamified\\Gamified\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Gamified\\Repositories\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T22:47:58.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Gamified\\Gamified\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Gamified\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Gamified\\Gamified\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "Gamified\\Repositories\\OrderRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T22:47:46.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MiniGameRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Gamified\\Gamified\\Repositories\\MiniGameRepository.cs",
+              "RelativeDocumentMoniker": "Gamified\\Repositories\\MiniGameRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Gamified\\Gamified\\Repositories\\MiniGameRepository.cs",
+              "RelativeToolTip": "Gamified\\Repositories\\MiniGameRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T22:47:31.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GiftRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Gamified\\Gamified\\Repositories\\GiftRepository.cs",
+              "RelativeDocumentMoniker": "Gamified\\Repositories\\GiftRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Gamified\\Gamified\\Repositories\\GiftRepository.cs",
+              "RelativeToolTip": "Gamified\\Repositories\\GiftRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T22:47:20.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuctionRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Gamified\\Gamified\\Repositories\\AuctionRepository.cs",
+              "RelativeDocumentMoniker": "Gamified\\Repositories\\AuctionRepository.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Gamified\\Gamified\\Repositories\\AuctionRepository.cs",
+              "RelativeToolTip": "Gamified\\Repositories\\AuctionRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T22:47:11.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserHandler.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Gamified\\Gamified\\Handlers\\UserHandler.cs",
+              "RelativeDocumentMoniker": "Gamified\\Handlers\\UserHandler.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Gamified\\Gamified\\Handlers\\UserHandler.cs",
+              "RelativeToolTip": "Gamified\\Handlers\\UserHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T22:46:32.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductHandler.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Gamified\\Gamified\\Handlers\\ProductHandler.cs",
+              "RelativeDocumentMoniker": "Gamified\\Handlers\\ProductHandler.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Gamified\\Gamified\\Handlers\\ProductHandler.cs",
+              "RelativeToolTip": "Gamified\\Handlers\\ProductHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T22:46:26.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "OrderHandler.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Gamified\\Gamified\\Handlers\\OrderHandler.cs",
+              "RelativeDocumentMoniker": "Gamified\\Handlers\\OrderHandler.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Gamified\\Gamified\\Handlers\\OrderHandler.cs",
+              "RelativeToolTip": "Gamified\\Handlers\\OrderHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T22:46:15.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "MiniGameHandler.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Gamified\\Gamified\\Handlers\\MiniGameHandler.cs",
+              "RelativeDocumentMoniker": "Gamified\\Handlers\\MiniGameHandler.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Gamified\\Gamified\\Handlers\\MiniGameHandler.cs",
+              "RelativeToolTip": "Gamified\\Handlers\\MiniGameHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T22:46:08.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GiftHandler.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Gamified\\Gamified\\Handlers\\GiftHandler.cs",
+              "RelativeDocumentMoniker": "Gamified\\Handlers\\GiftHandler.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Gamified\\Gamified\\Handlers\\GiftHandler.cs",
+              "RelativeToolTip": "Gamified\\Handlers\\GiftHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T22:46:02.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AuctionHandler.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Gamified\\Gamified\\Handlers\\AuctionHandler.cs",
+              "RelativeDocumentMoniker": "Gamified\\Handlers\\AuctionHandler.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Gamified\\Gamified\\Handlers\\AuctionHandler.cs",
+              "RelativeToolTip": "Gamified\\Handlers\\AuctionHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T22:45:56.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Gamified\\Gamified\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Gamified\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Gamified\\Gamified\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Gamified\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T22:45:45.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Gamified\\Gamified\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Gamified\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Gamified\\Gamified\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Gamified\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T22:45:37.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Gamified\\Gamified\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Gamified\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Gamified\\Gamified\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Gamified\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T22:45:25.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "MiniGameController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Gamified\\Gamified\\Controllers\\MiniGameController.cs",
+              "RelativeDocumentMoniker": "Gamified\\Controllers\\MiniGameController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Gamified\\Gamified\\Controllers\\MiniGameController.cs",
+              "RelativeToolTip": "Gamified\\Controllers\\MiniGameController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T22:45:17.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "GiftController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Gamified\\Gamified\\Controllers\\GiftController.cs",
+              "RelativeDocumentMoniker": "Gamified\\Controllers\\GiftController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Gamified\\Gamified\\Controllers\\GiftController.cs",
+              "RelativeToolTip": "Gamified\\Controllers\\GiftController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T22:45:10.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AuctionController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Gamified\\Gamified\\Controllers\\AuctionController.cs",
+              "RelativeDocumentMoniker": "Gamified\\Controllers\\AuctionController.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Gamified\\Gamified\\Controllers\\AuctionController.cs",
+              "RelativeToolTip": "Gamified\\Controllers\\AuctionController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T22:45:00.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GiftFactory.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Gamified\\Gamified\\Factories\\GiftFactory.cs",
+              "RelativeDocumentMoniker": "Gamified\\Factories\\GiftFactory.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Gamified\\Gamified\\Factories\\GiftFactory.cs",
+              "RelativeToolTip": "Gamified\\Factories\\GiftFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T22:43:24.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "OrderFactory.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Gamified\\Gamified\\Factories\\OrderFactory.cs",
+              "RelativeDocumentMoniker": "Gamified\\Factories\\OrderFactory.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Gamified\\Gamified\\Factories\\OrderFactory.cs",
+              "RelativeToolTip": "Gamified\\Factories\\OrderFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T22:43:15.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "MiniGameFactory.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Gamified\\Gamified\\Factories\\MiniGameFactory.cs",
+              "RelativeDocumentMoniker": "Gamified\\Factories\\MiniGameFactory.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Gamified\\Gamified\\Factories\\MiniGameFactory.cs",
+              "RelativeToolTip": "Gamified\\Factories\\MiniGameFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T22:42:47.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ProductFactory.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Gamified\\Gamified\\Factories\\ProductFactory.cs",
+              "RelativeDocumentMoniker": "Gamified\\Factories\\ProductFactory.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Gamified\\Gamified\\Factories\\ProductFactory.cs",
+              "RelativeToolTip": "Gamified\\Factories\\ProductFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T22:42:38.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UserFactory.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Gamified\\Gamified\\Factories\\UserFactory.cs",
+              "RelativeDocumentMoniker": "Gamified\\Factories\\UserFactory.cs",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Gamified\\Gamified\\Factories\\UserFactory.cs",
+              "RelativeToolTip": "Gamified\\Factories\\UserFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T22:42:26.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "GamifiedModel.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\GitHub\\Gamified\\Gamified\\Models\\GamifiedModel.edmx",
+              "RelativeDocumentMoniker": "Gamified\\Models\\GamifiedModel.edmx",
+              "ToolTip": "C:\\Users\\user\\Documents\\GitHub\\Gamified\\Gamified\\Models\\GamifiedModel.edmx [Diagram1]",
+              "RelativeToolTip": "Gamified\\Models\\GamifiedModel.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-06-17T22:39:38.083Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
